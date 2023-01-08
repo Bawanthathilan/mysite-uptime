@@ -5,6 +5,8 @@ repo: mysite-uptime # The name of this repository
 sites:
   - name: Bawantha
     url: https://www.bawantha.me
+  - name: blog.bawantha.me
+    url: https://blog.bawantha.me/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
