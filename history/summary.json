@@ -24,19 +24,19 @@
     "url": "https://blog.bawantha.me/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.bawantha.me.ico",
     "slug": "blog-bawantha-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 845,
-    "timeDay": 2008,
-    "timeWeek": 950,
-    "timeMonth": 845,
-    "timeYear": 845,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 874,
+    "timeDay": 1935,
+    "timeWeek": 1043,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 31
     }
   }
 ]
