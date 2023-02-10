@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bawantha.me.ico",
     "slug": "bawantha",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.89%",
-    "time": 302,
-    "timeDay": 105,
-    "timeWeek": 97,
-    "timeMonth": 345,
-    "timeYear": 302,
+    "uptimeYear": "99.90%",
+    "time": 301,
+    "timeDay": 199,
+    "timeWeek": 118,
+    "timeMonth": 336,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2023-01-31": 75
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 867,
-    "timeDay": 1318,
-    "timeWeek": 1089,
-    "timeMonth": 859,
-    "timeYear": 867,
+    "time": 860,
+    "timeDay": 635,
+    "timeWeek": 1119,
+    "timeMonth": 828,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2023-02-06": 31
     }
