@@ -4,9 +4,9 @@ repo: mysite-uptime # The name of this repository
 
 sites:
   - name: Bawantha
-    url: https://www.bawantha.me
-  - name: blog.bawantha.me
-    url: https://blog.bawantha.me/
+    url: https://bawanthathilan.vercel.app/
+  - name: Blog
+    url: https://bawanthathilan.hashnode.dev/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
