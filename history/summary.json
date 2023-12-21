@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.42%",
+    "uptimeWeek": "89.57%",
     "uptimeMonth": "92.66%",
     "uptimeYear": "99.37%",
     "time": 217,
-    "timeDay": 55,
-    "timeWeek": 307,
+    "timeDay": 82,
+    "timeWeek": 204,
     "timeMonth": 250,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 80,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 249,
+    "timeDay": 475,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   }
 ]
