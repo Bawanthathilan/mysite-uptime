@@ -4,9 +4,9 @@
     "url": "https://bawanthathilan.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/bawanthathilan.vercel.app.ico",
     "slug": "bawantha",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 172,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-08-20": 16,
       "2025-07-14": 17,
       "2024-10-22": 20
@@ -27,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bawanthathilan.hashnode.dev.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "22.33%",
+    "uptime": "22.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +39,7 @@
     "timeMonth": 135,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2025-08-25": 60,
+      "2025-08-25": 1135,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
