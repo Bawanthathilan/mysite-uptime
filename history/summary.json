@@ -6,17 +6,16 @@
     "slug": "bawantha",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.89%",
-    "time": 151,
-    "timeDay": 348,
-    "timeWeek": 194,
-    "timeMonth": 258,
+    "time": 152,
+    "timeDay": 425,
+    "timeWeek": 206,
+    "timeMonth": 262,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-11-05": 12,
       "2025-10-12": 27,
       "2025-09-07": 106,
       "2025-09-06": 4,
@@ -43,12 +42,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 256,
-    "timeDay": 388,
-    "timeWeek": 171,
-    "timeMonth": 148,
+    "timeDay": 197,
+    "timeWeek": 180,
+    "timeMonth": 149,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-11-05": 1180,
+      "2025-11-06": 59,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -411,8 +411,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   }
 ]
