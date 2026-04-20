@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 154,
-    "timeDay": 144,
-    "timeWeek": 186,
-    "timeMonth": 166,
-    "timeYear": 164,
+    "timeDay": 106,
+    "timeWeek": 151,
+    "timeMonth": 164,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2026-01-04": 18,
       "2025-12-12": 25,
@@ -40,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bawanthathilan.hashnode.dev.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "16.15%",
+    "uptime": "16.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.01%",
     "time": 240,
-    "timeDay": 101,
-    "timeWeek": 139,
-    "timeMonth": 128,
-    "timeYear": 153,
+    "timeDay": 114,
+    "timeWeek": 135,
+    "timeMonth": 127,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2026-04-19": 112,
+      "2026-04-20": 113,
+      "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -414,8 +415,7 @@
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   }
 ]
